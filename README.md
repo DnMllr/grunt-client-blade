@@ -3,7 +3,7 @@
 > Compiling [blade](https://github.com/bminer/node-blade) templates to one file and exposing them to a namespace
 
 ## Current status
-My first grunt task just made today, currently does not really accept options and won't be useful for most cases. Will fix shortly.
+My first grunt task just made today, currently does not really accept options and won't be useful for most cases. Will fix shortly and then put on npm.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
