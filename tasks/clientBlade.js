@@ -17,7 +17,7 @@ module.exports = function(grunt) {
 
     var blade = require('blade');
     var templates = [];
-    templates.push('window.blade = {')
+    templates.push('window.templates = {')
     // Iterate over all specified file groups.
     this.files.forEach(function(f) {
       // Concat specified files.
